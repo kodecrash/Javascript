@@ -1,9 +1,14 @@
 {
   "users":[ {
-    "userId": 1123,
+    "userId": 1,
     "username": "john",
     "password": "abc123",
     "token": "axStyusksdty79s8ajkoswwndopmsn"
+    },{
+    "userId": 2,
+    "username": "mike",
+    "password": "abc123",
+    "token": "swer17soiueddnhetejlaoosnnuoed"
     }
   ]
   
