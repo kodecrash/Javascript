@@ -1,5 +1,8 @@
 {
-  "userId": 1123,
-  "username": "john",
-  "password": "abc123"
+  "user": {
+    "userId": 1123,
+    "username": "john",
+    "password": "abc123"
+ }
+  
 }
