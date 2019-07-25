@@ -31,6 +31,51 @@
       "status": "Closed",
       "priority": "Intermediate",
       "assignee": "John Mike"
+    },{
+      "id": 3,
+      "ticketId": "TS1248",
+      "subject": "Modal not closing",
+      "description": "Join us for the upcoming webinar, Enterprise JavaScript done right: the tools you love, the security you need.",
+      "application":"Ebooking",
+      "status": "In Progress",
+      "priority": "Minor",
+      "assignee": "Brad Polloc"
+    },{
+      "id": 4,
+      "ticketId": "TS1249",
+      "subject": "Video not loading",
+      "description": "Join us for the upcoming webinar, Enterprise JavaScript done right: the tools you love, the security you need.",
+      "application":"JNMS Website",
+      "status": "New",
+      "priority": "Intermediate",
+      "assignee": "Gerard Osulivelian"
+    },{
+      "id": 5,
+      "ticketId": "TS1250",
+      "subject": "Not able to load PDF",
+      "description": "Join us for the upcoming webinar, Enterprise JavaScript done right: the tools you love, the security you need.",
+      "application":"OMS",
+      "status": "Closed",
+      "priority": "Major",
+      "assignee": "Gerard Osulivelian"
+    },{
+      "id": 6,
+      "ticketId": "TS1251",
+      "subject": "Failed Web service",
+      "description": "Join us for the upcoming webinar, Enterprise JavaScript done right: the tools you love, the security you need.",
+      "application":"OMS",
+      "status": "New",
+      "priority": "Major",
+      "assignee": "Brad Polloc"
+    },{
+      "id": 7,
+      "ticketId": "TS1252",
+      "subject": "Image not loading",
+      "description": "Join us for the upcoming webinar, Enterprise JavaScript done right: the tools you love, the security you need.",
+      "application":"JNMS Website",
+      "status": "New",
+      "priority": "Minor",
+      "assignee": "John Mike"
     }
   ]
   
