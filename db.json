@@ -10,6 +10,28 @@
     "password": "abc123",
     "token": "swer17soiueddnhetejlaoosnnuoed"
     }
+  ],
+  
+  "tickets": [
+    {
+      "id": 1,
+      "ticketId": "TS1452",
+      "subject": "Validation error on register page",
+      "description": "Join us for the upcoming webinar, Enterprise JavaScript done right: the tools you love, the security you need.",
+      "application":"Ebooking",
+      "status": "New",
+      "priority": "Major",
+      "assignee": "Brad Michel"
+    }, {
+      "id": 2,
+      "ticketId": "TS1247",
+      "subject": "Failed to create gurusevak",
+      "description": "Join us for the upcoming webinar, Enterprise JavaScript done right: the tools you love, the security you need.",
+      "application":"OMS",
+      "status": "Closed",
+      "priority": "Intermediate",
+      "assignee": "John Mike"
+    }
   ]
   
 }
