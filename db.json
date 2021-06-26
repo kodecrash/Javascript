@@ -180,6 +180,78 @@
          10
       ]
    }
-]
+],
+     "appointments": [
+          {
+            "id": "AP0001",
+            "Date": "01 Jan, 2018",
+            "patientName": "Rijksmuseum Amsterdam",
+            "address": "123 6th St. Melbourne, FL 32904",
+            "latitude": "52.3599976",
+            "longitude": "4.8852188",
+            "status": 1,
+            "startTime": "8 : 00 AM",
+            "endTime": "4 : 00 PM",
+            "photo": "https://www.digitourist.com/images/gallery/35231799.jpg"
+          },
+          {
+            "id": "AP0002",
+            "Date": "23 May, 2020",
+            "patientName": "Mr. John Kendil",
+            "address": "234 6th St. Lorence, TX 32568",
+            "latitude": "52.3599976",
+            "longitude": "4.8852188",
+            "status": 2,
+            "startTime": "03 : 00 PM",
+            "endTime": "04 : 00 PM",
+            "photo": "https://www.digitourist.com/images/gallery/35231799.jpg"
+          },
+          {
+            "id": "AP0003",
+            "Date": "20 June, 2020",
+            "patientName": "Mrs. Sezwin Rivia",
+            "address": "46 8th L.T. Owaia, CN 56785",
+            "latitude": "34.45",
+            "longitude": "78.44333",
+            "status": 1,
+            "startTime": "05 : 30 PM",
+            "endTime": "07 : 00 PM",
+            "photo": "https://www.digitourist.com/images/gallery/35231799.jpg"
+          },
+          {
+            "id": "AP0004",
+            "Date": "03 August, 2020",
+            "patientName": "Mr. Savio Ohorlia",
+            "address": "34 9th Frla. Lake, TA 78954",
+            "latitude": "34.45",
+            "longitude": "78.44333",
+            "status": 1,
+            "startTime": "08 : 30 AM",
+            "endTime": "09 : 00 AM",
+            "photo": "https://www.digitourist.com/images/gallery/35231799.jpg"
+          },{
+            "id": "AP0005",
+            "Date": "15 Jan, 2021",
+            "patientName": "Mr. Jeff Behat",
+            "address": "63 4th T.S. Lane, TA 56897",
+            "latitude": "34.45",
+            "longitude": "78.44333",
+            "status": 1,
+            "startTime": "10 : 00 AM",
+            "endTime": "12 : 00 PM",
+            "photo": "https://www.digitourist.com/images/gallery/35231799.jpg"
+          },{
+            "id": "AP0006",
+            "Date": "25 Feb, 2021",
+            "patientName": "Mrs. Tani Schaeta",
+            "address": "63 4th T.S. Lane, TA 56897",
+            "latitude": "34.45",
+            "longitude": "78.44333",
+            "status": 1,
+            "startTime": "11 : 30 AM",
+            "endTime": "12 : 30 PM",
+            "photo": "https://www.digitourist.com/images/gallery/35231799.jpg"
+          }
+        ]
   
 }
